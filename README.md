@@ -10,7 +10,7 @@ My specific pytorch/cuda install:
   --index-url https://download.pytorch.org/whl/cu129
 ```
 
-Run prep.py first to download `QQ_NET_trained_model.pt` first. unzip model.zip
+Run prep.py first to download `QQ_NET_trained_model.pt`. unzip model.zip
 
 > This code solves the QQ optimization from input QSM and mGRE data with 8 echoes using a deep neural network (NET). 
 > For details see: https://pubmed.ncbi.nlm.nih.gov/34719059/
